@@ -1,0 +1,16 @@
+{
+    "name": "magical-arena",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/game.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "jest": "^27.0.0"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
